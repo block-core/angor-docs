@@ -7,13 +7,18 @@
     "start": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "new-guide": "node scripts/new-guides.mjs",
+    "new-reference": "node scripts/new-reference.mjs"
   },
   "dependencies": {
+    "@astrojs/check": "^0.8.2",
     "@astrojs/starlight": "^0.25.2",
     "astro": "^4.10.2",
     "sharp": "^0.32.5",
-    "@astrojs/check": "^0.8.2",
     "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
   }
 }
