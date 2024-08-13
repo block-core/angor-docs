@@ -1,0 +1,6 @@
+  select:focus {
+    outline: none;
+  }
+  article:where(.astro-iu5xrbnm)>* {
+    max-width: 100ch !important;
+}
