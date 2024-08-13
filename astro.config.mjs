@@ -15,12 +15,12 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: 'Guides',
-          autogenerate: { directory: 'guides' },
+          label: 'Overview',
+          autogenerate: { directory: 'overview' },
         },
         {
-          label: 'Reference',
-          autogenerate: { directory: 'reference' },
+          label: 'How to Invest using Angor',
+          autogenerate: { directory: 'how-to-investsing Angor' },
         },
       ],
     }),
