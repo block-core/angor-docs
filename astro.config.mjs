@@ -19,8 +19,16 @@ export default defineConfig({
           autogenerate: { directory: 'overview' },
         },
         {
-          label: 'How to Invest using Angor',
-          autogenerate: { directory: 'how-to-investsing Angor' },
+          label: 'getting started',
+          autogenerate: { directory: 'creating a wallet' },
+        },
+        {
+          label: 'creating a project',
+          autogenerate: { directory: 'creating a project' },
+        },
+        {
+          label: 'investing in a project',
+          autogenerate: { directory: 'how to invest' },
         },
       ],
     }),
