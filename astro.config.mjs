@@ -30,6 +30,26 @@ export default defineConfig({
           label: 'investing in a project',
           autogenerate: { directory: 'how to invest' },
         },
+        {
+          label: 'project updates',
+          autogenerate: { directory: 'posting updates' },
+        },
+        {
+          label: 'Fees and Charges',
+          autogenerate: { directory: 'Our Fee Structure' },
+        },
+        {
+          label: 'Security and Control',
+          autogenerate: { directory: 'Time-Lock Contracts' },
+        },
+        {
+          label: 'FAQs',
+          autogenerate: { directory: 'Common Questions' },
+        },
+        {
+          label: 'Support',
+          autogenerate: { directory: 'Getting Help' },
+        },
       ],
     }),
   ],
