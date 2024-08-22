@@ -1,5 +1,5 @@
 ---
-title: "🤝Getting Help"
+title: "Getting Help"
 description: "Support Introduction"
 ---
 

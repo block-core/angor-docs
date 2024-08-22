@@ -13,7 +13,9 @@ description: "A guide on how to create a project"
 
 3. Set Milestones: Define your project milestones using time-lock contracts.
 ![image info](./images/set-milestone.png)
+
 4. Submit for Review: Once your project is ready, submit it for review.
+![image info](./images/submit-for-review.png)
 
 ### Project Approval
 Your project will be reviewed by the Angor team. Once approved, it will be listed for investors.

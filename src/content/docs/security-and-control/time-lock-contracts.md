@@ -1,10 +1,9 @@
 ---
-title: "Security and Control"
+title: "Time-Lock Contracts"
 description: "A guide on how Time Lock Contract works"
 ---
-## Security and Control
 
-### Time-Lock Contracts: Revolutionizing Crowdfunding with Angor
+### Revolutionizing Crowdfunding with Angor
 ![image info](./images/time-lock-contract.png)
 
 * Time-lock contracts are a cornerstone of Angor’s commitment to fostering a secure and accountable environment for founders and investors. By releasing funds at predefined intervals, these contracts ensure that funded projects achieve measurable milestones before receiving additional capital. This method promotes transparency and trust throughout the funding process.
