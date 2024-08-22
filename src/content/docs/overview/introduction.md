@@ -1,6 +1,6 @@
 ---
-title: Introduction
-description: Introduction description
+title: Overview
+description: Introduction to Angor
 ---
 
 ## Introduction

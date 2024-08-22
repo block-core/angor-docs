@@ -1,3 +1,7 @@
+---
+title: "FAQs"
+description: "Frequently asked questions about Angor"
+---
 ## FAQs
 ![image info](./images/FAQs.png)
 ### Common Questions

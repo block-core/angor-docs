@@ -1,3 +1,7 @@
+---
+title: "Project Updates"
+description: "Guide on Project Updates"
+---
 ## Project Updates
 
 ### Posting Updates

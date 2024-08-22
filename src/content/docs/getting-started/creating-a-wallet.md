@@ -1,6 +1,6 @@
 ---
-title: Introduction
-description: Introduction description
+title: Getting Started
+description: Getting started description
 ---
 
 ## Creating a Wallet

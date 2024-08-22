@@ -1,3 +1,7 @@
+---
+title: "How to Invest"
+description: "Guide on how to invest in Angor"
+---
 ## Investing in a Project
 
 ### How to Invest

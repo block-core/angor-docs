@@ -1,3 +1,7 @@
+---
+title: "Security and Control"
+description: "A guide on how Time Lock Contract works"
+---
 ## Security and Control
 
 ### Time-Lock Contracts: Revolutionizing Crowdfunding with Angor
