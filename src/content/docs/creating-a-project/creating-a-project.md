@@ -1,6 +1,6 @@
 ## Creating a Project
 
-1. Sign In: Log in to your Angor account.
+1. Sign In: Create a new wallet or recover an existing one on Angor.
 
 2. Create a New Project:
 ![image info](./images/create-a-project.png)

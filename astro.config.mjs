@@ -20,35 +20,35 @@ export default defineConfig({
         },
         {
           label: 'getting started',
-          autogenerate: { directory: 'creating a wallet' },
+          autogenerate: { directory: 'creating-a-wallet' },
         },
         {
           label: 'creating a project',
-          autogenerate: { directory: 'creating a project' },
+          autogenerate: { directory: 'creating-a-project' },
         },
         {
           label: 'investing in a project',
-          autogenerate: { directory: 'how to invest' },
+          autogenerate: { directory: 'how-to-invest' },
         },
         {
           label: 'project updates',
-          autogenerate: { directory: 'posting updates' },
+          autogenerate: { directory: 'posting-updates' },
         },
         {
           label: 'Fees and Charges',
-          autogenerate: { directory: 'Our Fee Structure' },
+          autogenerate: { directory: 'Our-Fee-Structure' },
         },
         {
           label: 'Security and Control',
-          autogenerate: { directory: 'Time-Lock Contracts' },
+          autogenerate: { directory: 'Time-Lock-Contracts' },
         },
         {
           label: 'FAQs',
-          autogenerate: { directory: 'Common Questions' },
+          autogenerate: { directory: 'Common-Questions' },
         },
         {
           label: 'Support',
-          autogenerate: { directory: 'Getting Help' },
+          autogenerate: { directory: 'Getting-Help' },
         },
       ],
     }),
