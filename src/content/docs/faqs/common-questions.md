@@ -1,10 +1,9 @@
 ---
-title: "FAQs"
+title: "Common Questions"
 description: "Frequently asked questions about Angor"
 ---
-## FAQs
+
 ![image info](./images/FAQs.png)
-### Common Questions
 
 #### Q1: What is Angor?
 

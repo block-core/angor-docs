@@ -1,8 +1,7 @@
 ---
-title: "Creating a Project"
+title: "How To Create A Project"
 description: "A guide on how to create a project"
 ---
-## Creating a Project
 
 1. Sign In: Create a new wallet or recover an existing one on Angor.
 

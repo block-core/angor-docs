@@ -1,9 +1,7 @@
 ---
-title: Getting Started
+title: Creating A Wallet
 description: Getting started description
 ---
-
-## Creating a Wallet
 
 * Step 1: Sign Up on Angor
 ![image info](./images/wallet1.png)

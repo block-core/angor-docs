@@ -1,8 +1,7 @@
 ---
-title: "Support"
+title: "🤝Getting Help"
 description: "Support Introduction"
 ---
-## 🤝Getting Help
 
 Contact Us: Reach out through the "Contact Us" section on the Angor website.
 

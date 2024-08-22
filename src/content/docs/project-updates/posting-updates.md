@@ -1,10 +1,8 @@
 ---
-title: "Project Updates"
+title: "Posting Updates"
 description: "Guide on Project Updates"
 ---
-## Project Updates
 
-### Posting Updates
 Founders are responsible for regularly updating investors on the project’s progress via Nostr.
 
 ## Founder’s Responsibility

@@ -1,10 +1,7 @@
 ---
-title: "Fees and Charges"
+title: "Our Fee Structure"
 description: "How our fee structure works"
 ---
-## Fees and Charges
-
-### Our Fee Structure
 
 * Platform Fee: Angor charges a minimal fee of 2-3% on funds raised, significantly lower than traditional platforms.
 

@@ -1,9 +1,8 @@
 ---
-title: Overview
+title: Introduction
 description: Introduction to Angor
 ---
 
-## Introduction
 Welcome to Angor!🚀
 
 We’re revolutionizing how Bitcoin crowdfunding works by merging the security of Bitcoin with the transparency of Nostr. Our platform ensures investors maintain control over their funds through time-lock contracts, with the option to recover unspent funds at any time.
