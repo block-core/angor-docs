@@ -19,8 +19,36 @@ export default defineConfig({
           autogenerate: { directory: 'overview' },
         },
         {
-          label: 'How to Invest using Angor',
-          autogenerate: { directory: 'how-to-investsing Angor' },
+          label: 'Getting Started',
+          autogenerate: { directory: 'getting-started' },
+        },
+        {
+          label: 'Creating A Project',
+          autogenerate: { directory: 'creating-a-project' },
+        },
+        {
+          label: 'Investing In A Project',
+          autogenerate: { directory: 'investing-in-a-project' },
+        },
+        {
+          label: 'Project Updates',
+          autogenerate: { directory: 'project-updates' },
+        },
+        {
+          label: 'Fees And Charges',
+          autogenerate: { directory: 'fees-and-charges' },
+        },
+        {
+          label: 'Security And Control',
+          autogenerate: { directory: 'security-and-control' },
+        },
+        {
+          label: 'FAQs',
+          autogenerate: { directory: 'faqs' },
+        },
+        {
+          label: 'Support',
+          autogenerate: { directory: 'support' },
         },
       ],
     }),
