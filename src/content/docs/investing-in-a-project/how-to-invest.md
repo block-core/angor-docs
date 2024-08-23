@@ -14,7 +14,7 @@ description: "Guide on how to invest in Angor"
 * Click “Submit” to confirm the transaction.
 ![image info](./images/confirm-password.png)
 You will be asked to input your password to confirm the transaction.
-### Wait for the founder to approve (this is a manual process by the founder).
+#### Wait for the founder to approve (this is a manual process by the founder).
 Wait for the transaction to be confirmed on the blockchain. This may take a few minutes.
 
 ### Investor Control
