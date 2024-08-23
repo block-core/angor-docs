@@ -15,9 +15,9 @@ Follow us on _Twitter_.
 
 ## Discord
 
-Join our _Discord_ community.
+Join our _[Discord](https://www.blockcore.net/discord)_ community.
 
 ## Telegram
 
-Stay connected on _Telegram_.
+Stay connected on _[Telegram](https://t.me/angor_io)_.
 
