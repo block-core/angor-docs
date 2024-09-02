@@ -19,27 +19,27 @@ export default defineConfig({
           autogenerate: { directory: 'overview' },
         },
         {
-          label: 'Getting Started',
+          label: 'Getting started',
           autogenerate: { directory: 'getting-started' },
         },
         {
-          label: 'Creating A Project',
+          label: 'Creating a project',
           autogenerate: { directory: 'creating-a-project' },
         },
         {
-          label: 'Investing In A Project',
+          label: 'Investing in a project',
           autogenerate: { directory: 'investing-in-a-project' },
         },
         {
-          label: 'Project Updates',
+          label: 'Project updates',
           autogenerate: { directory: 'project-updates' },
         },
         {
-          label: 'Fees And Charges',
+          label: 'Fees and charges',
           autogenerate: { directory: 'fees-and-charges' },
         },
         {
-          label: 'Security And Control',
+          label: 'Security and control',
           autogenerate: { directory: 'security-and-control' },
         },
         {
