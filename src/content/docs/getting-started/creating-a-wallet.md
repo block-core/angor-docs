@@ -3,24 +3,20 @@ title: Creating a Wallet
 description: Getting started with Angor
 ---
 
-### Step 1: Sign Up on Angor
-![image info](./images/wallet1.png)
-Sign up on the Angor platform: Visit the Angor website and complete the registration process by providing the necessary information.
-
-### Step 2: Create a Wallet
+### Step 1: Create a Wallet
 ![image info](./images/wallet.png)
-After logging in, navigate to the wallet creation section on your dashboard. Here’s how you can set up your wallet:
+To begin using Angor, the first step is to create a Bitcoin wallet. This wallet will serve as your gateway to all the features offered by the Angor platform. Follow these steps to set up your wallet:
 
-* **Click on "Create Wallet":** Simply select the “Create Wallet” option to initiate the process.
+* **Click on "Create Wallet":** Simply select the “Create Wallet” option on your dashboard to initiate the process.
 
-* **Automatic Wallet Setup:** Angor will generate and configure your Bitcoin wallet automatically, ensuring a seamless setup experience.
+* **Automatic Wallet Setup:** Angor will automatically generate and configure your Bitcoin wallet, ensuring a smooth and hassle-free setup experience.
 
-### Step 3: Backup Recovery Phrases
+### Step 2: Secure Your Wallet with Recovery Phrases
 ![image info](./images/wallet2.png)
-Once your wallet is created, it's crucial to secure it properly by following these steps:
+Once your wallet is created, it’s crucial to secure it properly. Here’s how:
 
-* **Record Your Recovery Phrases:** You will be provided with a set of recovery phrases. It’s essential to write them down accurately and store them in a secure, offline location.
+* **Record Your Recovery Phrases:** After your wallet is set up, you will be provided with a set of recovery phrases. These phrases are essential for recovering your wallet if you lose access. Write them down accurately and store them in a secure, offline location.
 
-* **Verify Recovery Phrases:** To confirm that your recovery phrases have been recorded correctly, you may be prompted to verify them. This step ensures you have a reliable backup.
+* **Verify Recovery Phrases:** To ensure you’ve recorded your recovery phrases correctly, you may be asked to verify them. This step is crucial to confirm that you have a reliable backup.
 
-* **Store Safely:** Your recovery phrases are the only means to recover your wallet if you lose access, so keep them in a safe place.
+* **Store Safely:** Your recovery phrases are the only way to recover your wallet if you lose access, so make sure to keep them in a safe and secure place.
