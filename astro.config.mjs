@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [
     starlight({
-      title: 'Angor Docs',
+      title: 'Angor Documentation',
       customCss: [
         './src/styles/style.css',
       ],
