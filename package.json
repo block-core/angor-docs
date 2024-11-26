@@ -12,26 +12,26 @@
     "new-reference": "node scripts/new-reference.mjs"
   },
   "dependencies": {
-    "@astrojs/markdown-remark": "^5.2.0",
-    "@astrojs/rss": "^4.0.7",
-    "@astrojs/starlight": "0.29.0",
+    "@astrojs/markdown-remark": "^5.3.0",
+    "@astrojs/rss": "^4.0.9",
+    "@astrojs/starlight": "0.29.2",
     "@lorenzo_lewis/starlight-utils": "^0.2.0",
     "@lunariajs/core": "^0.1.1",
     "@lunariajs/starlight": "^0.1.1",
     "@types/json-schema": "^7.0.15",
-    "astro": "^4.15.7",
+    "astro": "^4.16.15",
     "astro-d2": "^0.6.0",
     "astro-feelback": "^0.3.4",
     "astrojs-service-worker": "^2.0.0",
-    "jsdom": "^25.0.0",
-    "prettier": "^3.2.5",
-    "prettier-plugin-astro": "^0.14.0",
+    "jsdom": "^25.0.1",
+    "prettier": "^3.4.1",
+    "prettier-plugin-astro": "^0.14.1",
     "rehype-autolink-headings": "^7.1.0",
-    "sass": "^1.77.2",
-    "sharp": "^0.33.2",
-    "shiki": "^1.1.7",
+    "sass": "^1.81.0",
+    "sharp": "^0.33.5",
+    "shiki": "^1.23.1",
     "starlight-blog": "^0.15.0",
-    "starlight-links-validator": "^0.13.0"
+    "starlight-links-validator": "^0.13.2"
   },
   "packageManager": "pnpm@9.14.2",
   "engines": {
@@ -43,7 +43,9 @@
     }
   },
   "devDependencies": {
+    "@astrojs/check": "^0.9.4",
     "prettier": "^3.3.3",
-    "sass": "^1.81.0"
+    "sass": "^1.81.0",
+    "typescript": "^5.7.2"
   }
 }
