@@ -12,13 +12,38 @@
     "new-reference": "node scripts/new-reference.mjs"
   },
   "dependencies": {
-    "@astrojs/check": "^0.8.2",
-    "@astrojs/starlight": "^0.25.2",
-    "astro": "^4.10.2",
-    "sharp": "^0.32.5",
-    "typescript": "^5.5.4"
+    "@astrojs/markdown-remark": "^5.2.0",
+    "@astrojs/rss": "^4.0.7",
+    "@astrojs/starlight": "0.29.0",
+    "@lorenzo_lewis/starlight-utils": "^0.2.0",
+    "@lunariajs/core": "^0.1.1",
+    "@lunariajs/starlight": "^0.1.1",
+    "@types/json-schema": "^7.0.15",
+    "astro": "^4.15.7",
+    "astro-d2": "^0.6.0",
+    "astro-feelback": "^0.3.4",
+    "astrojs-service-worker": "^2.0.0",
+    "jsdom": "^25.0.0",
+    "prettier": "^3.2.5",
+    "prettier-plugin-astro": "^0.14.0",
+    "rehype-autolink-headings": "^7.1.0",
+    "sass": "^1.77.2",
+    "sharp": "^0.33.2",
+    "shiki": "^1.1.7",
+    "starlight-blog": "^0.15.0",
+    "starlight-links-validator": "^0.13.0"
+  },
+  "packageManager": "pnpm@9.14.2",
+  "engines": {
+    "pnpm": "^9.0.0"
+  },
+  "pnpm": {
+    "patchedDependencies": {
+      "@astrojs/starlight@0.29.0": "patches/@astrojs__starlight@0.29.0.patch"
+    }
   },
   "devDependencies": {
-    "prettier": "^3.3.3"
+    "prettier": "^3.3.3",
+    "sass": "^1.81.0"
   }
 }

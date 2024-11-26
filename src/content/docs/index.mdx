@@ -3,7 +3,7 @@ title: Angor Docs
 description: A decentralized crowdfunding platform built on Bitcoin and Nostr
 template: splash
 hero:
-  tagline: "Revolutionizing Crowdfunding with Bitcoin and Nostr"
+  tagline: "P2P Funding Protocol"
   image:
     file: ../../assets/angor.png
   actions:
@@ -16,34 +16,39 @@ hero:
       icon: external
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
+import Cta from '@fragments/cta.mdx';
 import AboutAstro from '../../components/about-angor.astro';
 
-## Discover Angor's Cutting-Edge Features
+<div class="hero-bg">
+  <div class="bg-logo"></div>
+  <div class="bg-grad"></div>
+  <div class="bg-grad-red"></div>
+</div>
 
-<CardGrid stagger>
-  <Card title="Harnessing Bitcoin's Power" icon="setting">
-    At the heart of Angor is Bitcoin, the original and most secure decentralized digital currency. Angor leverages Bitcoin's robustness to ensure secure, transparent crowdfunding.
+<div class="lp-cta-card">
+  <Card title="Our Services" icon="rocket">
+    <Cta />
   </Card>
-  <Card title="Seamless Nostr Integration" icon="setting">
+</div>
+
+<CardGrid>
+  <Card title="Harnessing Bitcoin's Power" icon="rocket">
+    At the heart of Angor is Bitcoin, the original and most secure decentralized digital currency. Angor leverages Bitcoin’s robustness to ensure secure, transparent crowdfunding.
+  </Card>
+  <Card title="Seamless Nostr Integration" icon="rocket">
     Angor integrates with Nostr, providing decentralized storage for project metadata and facilitating direct, uncensored communication between founders and investors.
   </Card>
-  <Card title="Innovative Time-Lock Contracts" icon="setting">
-    Time-lock contracts are central to Angor's approach, releasing funds only as milestones are met. This system builds accountability and trust, ensuring that founders demonstrate progress at every stage.
+  <Card title="Innovative Time-Lock Contracts" icon="rocket">
+    Time-lock contracts are central to Angor’s approach, releasing funds only as milestones are met. This system builds accountability and trust, ensuring that founders demonstrate progress at every stage.
   </Card>
-  <Card title="Taproot-Enhanced Security" icon="setting">
-    By utilizing Bitcoin's Taproot upgrade, Angor offers enhanced transaction privacy and efficiency, providing users with a more secure and streamlined experience.
+  <Card title="Taproot-Enhanced Security" icon="rocket">
+    By utilizing Bitcoin’s Taproot upgrade, Angor offers enhanced transaction privacy and efficiency, providing users with a more secure and streamlined experience.
   </Card>
-  <Card title="Dual-Key Multi-Signature Security" icon="setting">
-    Investor and founder interests are safeguarded through 2-of-2 multi-signature contracts, aligning both parties' incentives and ensuring mutual trust.
+  <Card title="Dual-Key Multi-Signature Security" icon="rocket">
+    Investor and founder interests are safeguarded through 2-of-2 multi-signature contracts, aligning both parties’ incentives and ensuring mutual trust.
   </Card>
-  <Card title="Future-Proof with Hash Locks" icon="setting">
-    Hash locks enable atomic token issuance, allowing for secure token transfers to investors. This feature will be available in Angor v2, further enhancing the platform's capabilities.
+  <Card title="Future-Proof with Hash Locks" icon="rocket">
+    Hash locks enable atomic token issuance, allowing for secure token transfers to investors. This feature will be available in Angor v2, further enhancing the platform’s capabilities.
   </Card>
 </CardGrid>
-
-<AboutAstro title="Stay in Control of Your Investments">
-Angor is redefining Bitcoin crowdfunding by merging the security of Bitcoin with the transparency of Nostr. Through time-lock contracts, investor funds are released in stages, ensuring that progress is made before additional funds are allocated. Unspent funds can be recovered at any time, empowering investors and aligning their interests with those of the founders.
-
-[Explore Angor Further](https://angor.io/)
-</AboutAstro>
