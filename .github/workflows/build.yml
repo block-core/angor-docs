@@ -8,29 +8,35 @@ on:
 
 jobs:
   build:
-    name: Build and Push
+    name: Build and Deploy Website
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Check out the repository
       - uses: actions/checkout@v3
         name: Checkout
-      
+
+      # Step 2: Setup Node.js environment
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '20' 
-          cache: 'npm'      
+          cache: 'npm' # Caches node_modules for faster builds
 
+      # Step 3: Install dependencies
       - name: Install Dependencies
-        run: npm install
+        run: npm ci # Faster and more reliable for CI environments
 
+      # Step 4: Build the project
       - name: Build
         run: npm run build
 
-      - name: Redirect 404 to Index for SPA
+      # Step 5: Redirect 404 to index.html for SPA
+      - name: Setup SPA Redirect
         run: cp dist/index.html dist/404.html
 
-      - name: Deploy
+      # Step 6: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
