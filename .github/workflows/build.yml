@@ -12,18 +12,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         name: Checkout
-
-      - name: Install pnpm
-        run: |
-          curl -fsSL https://get.pnpm.io/v6.16.js | node - add --global pnpm
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20' 
+          cache: 'npm'      
 
       - name: Install Dependencies
-        run: pnpm install
+        run: npm install
 
       - name: Build
-        run: pnpm run build
+        run: npm run build
 
       - name: Redirect 404 to Index for SPA
         run: cp dist/index.html dist/404.html
