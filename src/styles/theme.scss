@@ -1,0 +1,30 @@
+:root {
+  /* Primary Colors */
+  --sl-hue-primary: 191; /* Derived from #022229 */
+  --sl-color-primary-low: hsl(var(--sl-hue-primary), 100%, 10%);
+  --sl-color-primary: #022229;
+  --sl-color-primary-high: hsl(var(--sl-hue-primary), 100%, 40%);
+
+  --sl-hue-secondary: 186; /* Derived from #086c81 */
+  --sl-color-secondary-low: hsl(var(--sl-hue-secondary), 72%, 15%);
+  --sl-color-secondary: #086c81;
+  --sl-color-secondary-high: hsl(var(--sl-hue-secondary), 72%, 70%);
+
+  /* Accent Colors (Replacing Blue) */
+  --sl-hue-accent: 200; /* Derived from #cbdde1 */
+  --sl-color-accent-low: hsl(var(--sl-hue-accent), 40%, 40%);
+  --sl-color-accent: #086c81 !important;
+  --sl-color-accent-high: hsl(var(--sl-hue-accent), 40%, 95%);
+
+  /* Neutral Colors */
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #e9f2f4; /* Derived from #cbdde1 as a lighter tone */
+  --sl-color-gray-2: #cbdde1;
+  --sl-color-gray-3: #8a9ba1; /* A mix tone for gray scale */
+  --sl-color-gray-4: #586a6f;
+  --sl-color-gray-5: #2f4044; /* Close to #022229 but lighter */
+  --sl-color-gray-6: #1b2c30;
+  --sl-color-black: #0e181b; /* Darker tone derived from #022229 */
+  /* Custom Transition */
+  --angor-transition-speed: 200ms;
+}

@@ -1,0 +1,31 @@
+---
+import type { Props } from '@astrojs/starlight/props';
+import Default from '@astrojs/starlight/components/Footer.astro';
+const year = new Date().getFullYear();
+---
+
+<Default {...Astro.props}><slot /></Default>
+
+<hr />
+
+<p class="footer-text">&copy; 2024 Angor. All rights reserved. </p>
+ 
+ 
+
+<style>
+  .footer-text {
+    text-align: center;
+    color: var(--sl-color-gray-2);
+    font-size: var(--sl-text-sm);
+    margin-top: 1rem;
+    line-height: 1.5;
+  }
+  
+ 
+  
+  hr {
+    border: 0;
+    border-bottom: 1px solid var(--sl-color-hairline);
+    margin-bottom: 1rem;
+  }
+</style>
