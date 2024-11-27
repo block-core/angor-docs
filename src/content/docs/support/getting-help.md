@@ -17,7 +17,7 @@ Engage with the Angor community across various platforms to get peer support, sh
 
 #### X (Formerly Twitter) 
 For general updates, new feature releases, and community support, follow us on **X**. We regularly share important announcements and insights.
-Follow us on _[X](https://x.com/blockcoredev)_.
+Follow us on _[X](https://x.com/angor_io)_.
 
 #### Discord 
 Join our vibrant **Discord** community to chat with other users, developers, and team members in real-time. It’s the perfect place to get quick help and stay informed.
