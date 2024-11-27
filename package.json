@@ -31,7 +31,10 @@
     "sharp": "^0.33.5",
     "shiki": "^1.23.1",
     "starlight-blog": "^0.15.0",
-    "starlight-links-validator": "^0.13.2"
+    "starlight-links-validator": "^0.13.2",
+    "@pagefind/default-ui": "^1.0.3",
+    "pagefind": "^1.0.3"
+
   },
   "packageManager": "pnpm@9.14.2",
   "engines": {
