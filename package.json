@@ -40,11 +40,6 @@
   "engines": {
     "pnpm": "^9.0.0"
   },
-  "pnpm": {
-    "patchedDependencies": {
-      "@astrojs/starlight@0.29.0": "patches/@astrojs__starlight@0.29.0.patch"
-    }
-  },
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
     "prettier": "^3.3.3",
