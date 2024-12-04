@@ -24,15 +24,12 @@ jobs:
 
       - run: pnpm i
 
-      # Step 4: Build the project
       - name: Build
         run: pnpm run build
 
-      # Step 5: Redirect 404 to index.html for SPA
       - name: Setup SPA Redirect
         run: cp dist/index.html dist/404.html
 
-      # Step 6: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
