@@ -23,32 +23,20 @@ export default defineConfig({
        },
       sidebar: [
         {
-          label: 'Overview',
-          autogenerate: { directory: 'overview' },
+          label: 'Quick Start',
+          autogenerate: { directory: 'start' },
         },
         {
-          label: 'Getting started',
-          autogenerate: { directory: 'getting-started' },
+          label: 'Investor',
+          autogenerate: { directory: 'investor' },
         },
         {
-          label: 'Creating a project',
-          autogenerate: { directory: 'creating-a-project' },
+          label: 'Founder',
+          autogenerate: { directory: 'founder' },
         },
         {
-          label: 'Investing in a project',
-          autogenerate: { directory: 'investing-in-a-project' },
-        },
-        {
-          label: 'Project updates',
-          autogenerate: { directory: 'project-updates' },
-        },
-        {
-          label: 'Fees and charges',
-          autogenerate: { directory: 'fees-and-charges' },
-        },
-        {
-          label: 'Security and control',
-          autogenerate: { directory: 'security-and-control' },
+          label: 'Developer',
+          autogenerate: { directory: 'developer' },
         },
         {
           label: 'FAQs',
@@ -58,6 +46,39 @@ export default defineConfig({
           label: 'Support',
           autogenerate: { directory: 'support' },
         },
+
+        // {
+        //   label: 'Getting started',
+        //   autogenerate: { directory: 'getting-started' },
+        // },
+        // {
+        //   label: 'Creating a project',
+        //   autogenerate: { directory: 'creating-a-project' },
+        // },
+        // {
+        //   label: 'Investing in a project',
+        //   autogenerate: { directory: 'investing-in-a-project' },
+        // },
+        // {
+        //   label: 'Project updates',
+        //   autogenerate: { directory: 'project-updates' },
+        // },
+        // {
+        //   label: 'Fees and charges',
+        //   autogenerate: { directory: 'fees-and-charges' },
+        // },
+        // {
+        //   label: 'Security and control',
+        //   autogenerate: { directory: 'security-and-control' },
+        // },
+        // {
+        //   label: 'FAQs',
+        //   autogenerate: { directory: 'faqs' },
+        // },
+        // {
+        //   label: 'Support',
+        //   autogenerate: { directory: 'support' },
+        // },
       ],
     }),
   ],
