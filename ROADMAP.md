@@ -5,7 +5,7 @@ This roadmap outlines the steps needed to build a complete and professional docu
 ---
 
 ### 1. **Quick Start**
-- [ ] What is Angor? (Introduction and overview)
+- [X] What is Angor? (Introduction and overview)
 
 ### 2. **Investor**
 - [ ] Getting Started (Account creation and platform introduction)
