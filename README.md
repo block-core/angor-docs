@@ -13,7 +13,7 @@ We encourage community participation to enhance and expand our documentation. He
 
 - **Join Our Community**: Connect with us on [Discord](https://discord.gg/eQaVFqfesn) in the `#angor` channel to ask questions or provide feedback.
 - **Explore the Documentation Roadmap**: Review the [Angor Documentation Roadmap](https://github.com/block-core/angor-docs/issues/4) to identify areas where you can contribute.
-- **Follow Contributing Guidelines**: Please read our [contributing guidelines](https://github.com/block-core/angor/blob/main/CONTRIBUTING.MD) to understand how to get started.
+- **Follow Contributing Guidelines**: Please read our [contributing guidelines](./CONTRIBUTING.md) to understand how to get started.
 
 ## License
 
