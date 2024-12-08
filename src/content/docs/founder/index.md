@@ -1,6 +1,6 @@
 ---
-title:  "Getting Start"
-description:  "Getting Start"
+title:  "Project Creation"
+description:  "Project Creation"
 sidebar:
   order: 1
 ---
