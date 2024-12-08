@@ -1,6 +1,6 @@
 ---
 title:  "Getting help"
-description:  "Need Assistance? We’re Here to Help!"
+description:  "Getting Help (Contacting support and troubleshooting)"
 sidebar:
   order: 1
 ---
