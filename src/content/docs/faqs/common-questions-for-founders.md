@@ -1,6 +1,67 @@
 ---
-title:  "Common Questions for Founders"
-description:  "Common Questions for Founders"
+title: "Founders FAQ"
+description: "Frequently Asked Questions tailored for founders using Angor."
 sidebar:
-  order: 2
+  order: 3
 ---
+
+### **What is Angor, and how can it help me as a founder?**
+Angor is a decentralized crowdfunding platform that offers secure funding channels for projects. It helps founders attract serious backers by guaranteeing fund security, which fosters trust among investors.
+
+---
+
+### **How do I create a project on Angor?**
+To create a project:
+1. Register the project through Angor App.
+2. Define milestones and funding goals.
+3. Use Angor Hub to update investors and engage with the community.
+
+---
+
+### **How does Angor ensure fund security for investors?**
+Angor utilizes Bitcoin smart contracts to:
+- Lock funds based on milestones.
+- Allow investors to exit with unspent funds if required.
+This transparency builds trust and encourages more investors to back your project.
+
+---
+
+### **What happens if my project doesn’t reach full funding?**
+If funding goals are not met:
+- You can co-sign an exit transaction to return unspent funds to investors.
+- Alternatively, the penalty process allows unspent Bitcoin to revert to investors securely.
+
+---
+
+### **What are the key advantages of using Angor as a founder?**
+- **Increased trust:** Secure funding attracts serious investors.
+- **Transparency:** Updates through Nostr keep investors informed.
+- **Decentralization:** No intermediaries or backend systems to compromise your project.
+
+---
+
+### **How do I communicate with my investors?**
+Angor uses **Nostr** for direct communication. You can share updates, milestones, and progress reports in real-time via Nostr relays.
+
+---
+
+### **What currency will I receive from investors?**
+All funding on Angor is conducted using Bitcoin.
+
+---
+
+### **Can I use Angor for any type of project?**
+Yes, Angor is suitable for a variety of crowdfunding projects. However, projects that benefit from transparency and milestone-based funding are ideal.
+
+---
+
+### **Do I need permission to use Angor?**
+No. Angor is permissionless and censorship-resistant. You can launch and manage your project without requiring approvals from any central authority.
+
+---
+
+### **What happens if an investor exits my project?**
+If an investor exits, their Bitcoin becomes locked for a predefined penalty period. This ensures that funds allocated for milestones remain secure until the next step.
+
+---
+

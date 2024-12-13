@@ -28,22 +28,27 @@ export default defineConfig({
         },
         {
           label: 'Investor',
+          collapsed: true,
           autogenerate: { directory: 'investor' },
         },
         {
           label: 'Founder',
+          collapsed: true,
           autogenerate: { directory: 'founder' },
         },
         {
           label: 'Developer',
+          collapsed: true,
           autogenerate: { directory: 'developer' },
         },
         {
           label: 'FAQs',
+          collapsed: true,
           autogenerate: { directory: 'faqs' },
         },
         {
           label: 'Support',
+          collapsed: true,
           autogenerate: { directory: 'support' },
         },
 
