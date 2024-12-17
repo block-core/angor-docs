@@ -8,9 +8,9 @@ sidebar:
  
 Angor is a **decentralized crowdfunding protocol** that transforms the way projects are funded by utilizing the **Bitcoin network** and the **Nostr protocol**. Designed with **security**, **trustlessness**, and **transparency** in mind, Angor empowers investors, project founders, and developers to interact within a robust decentralized ecosystem.
 
----
+![bitcoin](./bitcoin2.svg)
 
-### Empowering Collaboration
+## Empowering Collaboration
 
 Angor leverages Bitcoin’s advanced scripting capabilities, including **Taproot** and **Schnorr signatures**, to create innovative solutions for project funding:
 
@@ -19,13 +19,13 @@ Angor leverages Bitcoin’s advanced scripting capabilities, including **Taproot
 
 ![bitcoin](./bitcoin2.svg)
 
-### Transparent Communication with Nostr
+## Transparent Communication with Nostr
 
 Using the **Nostr protocol**, Angor facilitates secure communication between stakeholders. It ensures that **project metadata** is managed in a **decentralized** and **tamper-proof** manner, fostering trust and clarity for everyone involved.
 
 ![bitcoin](./bitcoin2.svg)
 
-### A Truly Decentralized Platform
+## A Truly Decentralized Platform
 
 Unlike traditional platforms, **Angor eliminates intermediaries** and central authorities:
 
@@ -35,13 +35,13 @@ Unlike traditional platforms, **Angor eliminates intermediaries** and central au
 
 ![bitcoin](./bitcoin2.svg)
 
-### Transforming Investment
+## Transforming Investment
 
 Angor is more than just a funding platform—it’s a **transformative approach** to decentralized investment. By fostering **innovation**, **accountability**, and **collaboration**, it aligns the interests of all participants and sets a new standard for crowdfunding.
 
 ![bitcoin](./bitcoin2.svg)
 
-### Why Choose Angor?
+## Why Choose Angor?
 
 - **Secure and Transparent**: Built on Bitcoin’s robust foundation.
 - **Innovative Features**: Advanced scripting capabilities for secure funding.
@@ -49,6 +49,6 @@ Angor is more than just a funding platform—it’s a **transformative approach*
 
 ![bitcoin](./bitcoin2.svg)
 
- ### Join the Decentralized Revolution with Angor
+ ## Join the Decentralized Revolution with Angor
 
 Explore how Angor can redefine the future of crowdfunding. Be part of a movement that empowers individuals, fosters trust, and drives innovation.
