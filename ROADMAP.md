@@ -52,9 +52,10 @@ This roadmap outlines the steps needed to build a complete and professional docu
 - [ ] Setting up Bitcoin Testnet Faucet (Guide for developers)
 
 ### 5. **FAQs**
-- [ ] Common Questions for Investors
-- [ ] Common Questions for Founders
-- [ ] Common Questions for Developers
+- [X] General FAQ
+- [X] Investors FAQ
+- [X] Founders FAQ
+- [X] Developers FAQ
 
 ### 6. **Support**
 - [ ] Getting Help (Contacting support and troubleshooting)
