@@ -2,29 +2,16 @@
 title:  "P2P Funding Protocol"
 description:  "Decentralized Funding Mechanism on the Bitcoin Network"
 sidebar:
-  order: 1
+  order: 2
   
 ---
  
-#  P2P Funding Protocol
-
-```
-Number:  BCIP-0005
-Title:   P2P Funding Protocol
-Type:    Protocol
-Status:  Draft
-Authors: Dan Gershony, David Gershony
-Created: 2023-02-28
-```
 
 ## Abstract
 
 P2PFP a decentralized funding mechanism on the Bitcoin network. It utilizes time-locked contracts whereby investors lock bitcoin into timebased stages. Each stage, upon reaching its time limit, allows the founders to claim the locked bitcoins (and optionally issue in return ownership interest to investors). Alternatively, investors can recover any remaining coins at any time, however recovery may incur penalties. The system distinguishes two types of investors: seed investors and regular investors. Seeders, often early investors, always incur penalties during coin recovery. Regular investors seeking to recover their coins have two options: they can either accept the penalty or, if enough seeders have already recovered their coins with penalty, they can use the seeders keys for a penalty-free recovery. This mitigates fraud, and boosts investor confidence by enabling active control over their investments.  
 
-## Copyright
-
-TBD
-
+ 
 ## Motivation
 
 In previous blockchain projects, founders had little incentive to protect investors' interests, such as the value of the issued tokens, once the Bitcoin investment was released. Investors often resorted to lawsuits and social pressure to seek restitution. In this approach, our aim is to protect investors from fraud and mismanagement while also aligning the project incentives with those of the investors.
@@ -224,11 +211,3 @@ ED    - expiry date
   | Stage 5 output      
   +--------------------> same as stage 1 but with M5 timelock
 ```
-
-### Acknowledgement
-
-TBD
-
-### Privacy
-
-TBD
