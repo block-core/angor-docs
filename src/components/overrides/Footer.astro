@@ -1,10 +1,12 @@
 ---
 import type { Props } from '@astrojs/starlight/props';
 import Default from '@astrojs/starlight/components/Footer.astro';
+import ChatBot from '../ChatBot.astro';
 const year = new Date().getFullYear();
 ---
 
-<Default {...Astro.props}><slot /></Default>
+<Default {...Astro.props}/>
+<ChatBot />
 
 <hr />
 
@@ -22,7 +24,6 @@ const year = new Date().getFullYear();
   }
   
  
-  
   hr {
     border: 0;
     border-bottom: 1px solid var(--sl-color-hairline);
