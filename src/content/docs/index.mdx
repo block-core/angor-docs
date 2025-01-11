@@ -19,6 +19,7 @@ hero:
 import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
 import Cta from '@fragments/cta.mdx';
 import AboutAstro from '../../components/about-angor.astro';
+import '../../styles/animations.css';
 
 <div class="hero-bg">
   <div class="bg-logo"></div>
@@ -32,7 +33,7 @@ import AboutAstro from '../../components/about-angor.astro';
   </Card>
 </div> */}
 
-<CardGrid>
+<CardGrid className="card-grid">
   <Card title="Harnessing Bitcoin's Power" icon="rocket">
     At the heart of Angor is Bitcoin, the original and most secure decentralized digital currency. Angor leverages Bitcoin’s robustness to ensure secure, transparent crowdfunding.
   </Card>
