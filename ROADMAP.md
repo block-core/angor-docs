@@ -6,10 +6,13 @@ This roadmap outlines the steps needed to build a complete and professional docu
 
 ### 1. **Quick Start**
 - [X] What is Angor? (Introduction and overview)
+- [ ] Angor Tools
 
-### 2. **Investor**
-- [ ] Getting Started (Account creation and platform introduction)
+### 2. **General**
 - [ ] Wallet Creation and Management
+
+### 3. **Investor**
+- [ ] Getting Started (Account creation and platform introduction)
 - [ ] Finding Projects 
 - [ ] Investing 
 - [ ] How to Use Angor (Detailed walkthrough of the platform)
@@ -25,8 +28,7 @@ This roadmap outlines the steps needed to build a complete and professional docu
   Faucet)
 - [ ] How to Use Angor Wallet (Detailed walkthrough of the Angor Wallet)
 
-
-### 3. **Founder**
+### 4. **Founder**
 - [ ] Getting Started (How to launch and manage projects)
 - [ ] Project Creation
 - [ ] Project Management
@@ -41,7 +43,7 @@ This roadmap outlines the steps needed to build a complete and professional docu
 - [ ] How to Use Angor Hub (Detailed walkthrough of the Angor Hub)
 - [ ] Using Angor Hub (Features for founders)
 
-### 4. **Developer**
+### 5. **Developer**
 - [ ] Getting Started (Overview of Angor’s codebase and setup guide)
 - [ ] How to contribute to Angor (Guidelines for contributing to the codebase)
 - [ ] How to develop Angor (Technical guides for developers)
@@ -51,12 +53,12 @@ This roadmap outlines the steps needed to build a complete and professional docu
 - [ ] Setting up Angor Relay (Installation, configuration, and best practices)
 - [ ] Setting up Bitcoin Testnet Faucet (Guide for developers)
 
-### 5. **FAQs**
+### 6. **FAQs**
 - [X] General FAQ
 - [X] Investors FAQ
 - [X] Founders FAQ
 - [X] Developers FAQ
 
-### 6. **Support**
+### 7. **Support**
 - [ ] Getting Help (Contacting support and troubleshooting)
 - [ ] Troubleshooting Guide (Common issues and solutions)
