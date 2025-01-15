@@ -20,11 +20,17 @@ export default defineConfig({
         Header: './src/components/overrides/Header.astro',
         Footer: 'src/components/overrides/Footer.astro',
         ThemeSelect: 'src/components/overrides/ThemeSelect.astro',
+        ToolButton: './src/components/starlight/ToolButton.astro',
        },
       sidebar: [
         {
           label: 'Quick Start',
           autogenerate: { directory: 'start' },
+        },
+        {
+          label: 'General',
+          collapsed: true,
+          autogenerate: { directory: 'general' },
         },
         {
           label: 'Investor',
@@ -87,4 +93,11 @@ export default defineConfig({
       ],
     }),
   ],
+  vite: {
+    resolve: {
+      alias: {
+        '@components': '/src/components'
+      }
+    }
+  }
 });

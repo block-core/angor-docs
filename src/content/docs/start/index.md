@@ -8,14 +8,14 @@ sidebar:
 
 Angor is a **decentralized crowdfunding protocol** that transforms the way projects are funded by utilizing the **Bitcoin network** and the **Nostr protocol**. Designed with **security**, **trustlessness**, and **transparency** in mind, Angor empowers investors, project founders, and developers to interact within a robust decentralized ecosystem.
 
-<div style="display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 400px; margin: 0 auto;">
-  <img src="/angor.svg" alt="Angor Logo" style="width: 100px; height: auto; max-width: 100%;" />
+<div class="logo-container">
+  <img src="/angor.svg" alt="Angor Logo" class="logo-image" />
   
-  <img src="/Arrow.gif" alt="Arrow" style="width: 100px; height: auto; max-width: 100%; margin-top:0px;" />
+  <img src="/Arrow.gif" alt="Arrow" class="arrow-image" />
   
-  <div style="display: flex; justify-content: center; align-items: center; gap: 0.2rem; width: 100%; margin-top: 0px;">
-    <img src="/nostr.png" alt="Nostr" style="width: 40px; height: auto; margin-top:0px; margin-left: -7px;" /> 
-    <img src="/bitcoin.png" alt="Bitcoin" style="width: 40px; height: auto; margin-top:0px;" />
+  <div class="bottom-icons">
+    <img src="/nostr.png" alt="Nostr" class="nostr-icon" />
+    <img src="/bitcoin.png" alt="Bitcoin" class="bitcoin-icon" />
   </div>
 </div>
 
