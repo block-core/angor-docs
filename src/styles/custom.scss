@@ -212,3 +212,48 @@ h2 {
 h3 {
   font-size: 1rem !important; 
 }
+
+.logo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.logo-image {
+  width: 100px;
+  height: auto;
+  max-width: 100%;
+}
+
+.arrow-image {
+  width: 100px;
+  height: auto;
+  max-width: 100%;
+  margin-top: 0 !important;
+}
+
+.bottom-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.2rem;
+  width: 100%;
+  margin-top: 0 !important;
+}
+
+.nostr-icon {
+  width: 40px;
+  height: auto;
+  margin-top: 0 !important;
+  margin-left: -7px;
+}
+
+.bitcoin-icon {
+  width: 40px;
+  height: auto;
+  margin-top: 0 !important;
+}
