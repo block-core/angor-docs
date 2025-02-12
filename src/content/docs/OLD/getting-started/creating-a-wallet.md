@@ -12,7 +12,7 @@ To begin using Angor, the first step is to create a Bitcoin wallet. This wallet 
 * **Automatic Wallet Setup:** Angor will automatically generate and configure your Bitcoin wallet, ensuring a smooth and hassle-free setup experience.
 
 ### Step 2: Secure Your Wallet with Recovery Phrases
-![image info](./images/wallet2.png)
+![image info](./images/wallet.png)
 Once your wallet is created, it’s crucial to secure it properly. Here’s how:
 
 * **Record Your Recovery Phrases:** After your wallet is set up, you will be provided with a set of recovery phrases. These phrases are essential for recovering your wallet if you lose access. Write them down accurately and store them in a secure, offline location.

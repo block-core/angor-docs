@@ -154,6 +154,11 @@
   display: inline-block;
 }
 
+// Add rounded corners to documentation images
+.sl-markdown-content img {
+  border-radius: 0.75rem;
+ }
+
 :root[data-theme='light'] .hero > img {
   // filter: invert(1);
 }

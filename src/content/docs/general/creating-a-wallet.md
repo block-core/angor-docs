@@ -3,20 +3,81 @@ title: Creating a Wallet
 description: Getting started with Angor
 ---
 
-### Step 1: Create a Wallet
+## Getting Started with Your Bitcoin Wallet
+
+To begin using Angor, you'll need a Bitcoin wallet. You can either create a new wallet or recover an existing one.
+
 ![image info](./images/wallet.png)
-To begin using Angor, the first step is to create a Bitcoin wallet. This wallet will serve as your gateway to all the features offered by the Angor platform. Follow these steps to set up your wallet:
 
-* **Click on "Create Wallet":** Simply select the “Create Wallet” option on your dashboard to initiate the process.
+## Creating a New Wallet
 
-* **Automatic Wallet Setup:** Angor will automatically generate and configure your Bitcoin wallet, ensuring a smooth and hassle-free setup experience.
+### Step 1: Generate Wallet Words
+![image info](./images/create-wallet-step-1-1.png)
 
-### Step 2: Secure Your Wallet with Recovery Phrases
-![image info](./images/wallet2.png)
-Once your wallet is created, it’s crucial to secure it properly. Here’s how:
+* Click the "Generate Wallet Words" button to create your unique recovery phrase
 
-* **Record Your Recovery Phrases:** After your wallet is set up, you will be provided with a set of recovery phrases. These phrases are essential for recovering your wallet if you lose access. Write them down accurately and store them in a secure, offline location.
+![image info](./images/create-wallet-step-1-2.png)
 
-* **Verify Recovery Phrases:** To ensure you’ve recorded your recovery phrases correctly, you may be asked to verify them. This step is crucial to confirm that you have a reliable backup.
+* You'll receive a set of words that serve as your wallet's backup
+* Copy these words and store them securely
+* Confirm that you've written down your wallet words by checking the checkbox
 
-* **Store Safely:** Your recovery phrases are the only way to recover your wallet if you lose access, so make sure to keep them in a safe and secure place.
+### Step 2: Verify Recovery Phrases
+![image info](./images/create-wallet-step-2-1.png)
+
+* You'll be asked to verify specific words from your recovery phrase
+* Enter the requested words in the correct order
+* This step ensures you've properly recorded your recovery phrase
+* For testnet wallets, there's an option to skip verification
+
+### Step 3: Optional Passphrase
+![image info](./images/create-wallet-step-3-1.png)
+
+* Choose whether to add an extra layer of security with a passphrase
+
+![image info](./images/create-wallet-step-3-2.png)
+
+* This is optional but recommended for additional protection
+* If enabled, enter your chosen passphrase
+* Remember: You must keep this passphrase safe as it's required to access your wallet
+
+### Step 4: Set Wallet Password
+![image info](./images/create-wallet-step-4-1.png)
+
+* Create a password to protect your wallet
+* This password will be required to access your wallet
+* You can toggle password visibility while typing
+
+## Recovering an Existing Wallet
+
+### Step 1: Enter Recovery Phrase
+![image info](./images/recover-wallet-step-1-1.png)
+
+* Enter your existing wallet's recovery phrase
+* Make sure to enter the words in the correct order
+* The system will validate your recovery phrase
+
+### Step 2: Enter Passphrase (if applicable)
+![image info](./images/recover-wallet-step-2-1.png)
+
+* If your wallet was created with a passphrase, enter it
+
+![image info](./images/recover-wallet-step-2-2.png)
+
+* Skip this step if you didn't use a passphrase originally
+* Click the shield icon to toggle passphrase input
+
+### Step 3: Set New Password
+![image info](./images/recover-wallet-step-3-1.png)
+
+* Create a new password for your recovered wallet
+* This password will protect your wallet on this device
+* You can toggle password visibility while typing
+
+## Important Security Notes
+
+* Never share your recovery phrase or passphrase with anyone
+* Store your recovery phrase in a secure, offline location
+* Your recovery phrase is the only way to restore your wallet if lost
+* Consider using the optional passphrase for additional security
+* Keep your wallet password safe and memorable
