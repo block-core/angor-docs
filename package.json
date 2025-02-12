@@ -35,7 +35,7 @@
     "starlight-blog": "^0.16.1",
     "starlight-links-validator": "^0.14.2"
   },
-  "packageManager": "pnpm@10.2.1",
+  "packageManager": "pnpm@10.3.0",
   "engines": {
     "pnpm": ">=9.0.0"
   },
