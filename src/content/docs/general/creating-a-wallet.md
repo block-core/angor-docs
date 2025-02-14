@@ -7,7 +7,7 @@ description: Getting started with Angor
 
 To begin using Angor, you'll need a Bitcoin wallet. You can either create a new wallet or recover an existing one.
 
-![image info](./images/wallet.png)
+![image info](./images/wallet-1.png)
 
 ## Creating a New Wallet
 
@@ -81,3 +81,5 @@ To begin using Angor, you'll need a Bitcoin wallet. You can either create a new 
 * Your recovery phrase is the only way to restore your wallet if lost
 * Consider using the optional passphrase for additional security
 * Keep your wallet password safe and memorable
+
+![image info](./images/wallet-2.png)
