@@ -6,10 +6,10 @@ This roadmap outlines the steps needed to build a complete and professional docu
 
 ### 1. **Quick Start**
 - [X] What is Angor? (Introduction and overview)
-- [ ] Angor Tools
+- [X] Angor Tools
 
 ### 2. **General**
-- [ ] Wallet Creation and Management
+- [X] Wallet Creation and Management
 
 ### 3. **Investor**
 - [ ] Getting Started (Account creation and platform introduction)
