@@ -12,8 +12,9 @@ This roadmap outlines the steps needed to build a complete and professional docu
 - [X] Wallet Creation and Management
 
 ### 3. **Investor**
-- [ ] Getting Started (Account creation and platform introduction)
-- [ ] Finding Projects 
+- [X] Getting Started (Account creation and platform introduction)
+- [X] Wallet Setup
+- [X] Finding Projects 
 - [ ] Investing 
 - [ ] How to Use Angor (Detailed walkthrough of the platform)
 - [ ] How Angor Works (Technical overview of the platform)
