@@ -61,5 +61,5 @@ This roadmap outlines the steps needed to build a complete and professional docu
 - [X] Developers FAQ
 
 ### 7. **Support**
-- [ ] Getting Help (Contacting support and troubleshooting)
-- [ ] Troubleshooting Guide (Common issues and solutions)
+- [X] Getting Help (Contacting support and troubleshooting)
+- [X] Troubleshooting Guide (Common issues and solutions)
