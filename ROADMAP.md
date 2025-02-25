@@ -5,52 +5,140 @@ This roadmap outlines the steps needed to build a complete and professional docu
 ---
 
 ### 1. **Quick Start**
-- [X] What is Angor? (Introduction and overview)
-- [X] Angor Tools
+- [ ] Platform Overview
+  - What is Angor?
+  - Key Features
+  - System Architecture
+  - Getting Started Guide
+
+- [ ] Tools and Resources
+  - Angor App Overview
+  - Angor Hub Introduction
+  - Available Tools
+  - Resource Directory
 
 ### 2. **General**
-- [X] Wallet Creation and Management
+- [ ] Wallet Management
+  - Wallet Creation Process
+  - Security Best Practices
+  - Backup and Recovery
+  - Key Management
+
+- [ ] Platform Basics
+  - Navigation Guide
+  - Basic Operations
+  - Common Functions
+  - Security Features
 
 ### 3. **Investor**
-- [X] Getting Started (Account creation and platform introduction)
-- [X] Wallet Setup
-- [X] Finding Projects 
-- [ ] Investing Process
-- [ ] Recovery Options Guide 
-- [ ] How Angor Works (Technical overview of the platform)
-- [ ] Technical Guides (Detailed technical guides for investors)
-- [ ] How to Use Angor Hub (Detailed walkthrough of the Angor Hub)
-- [ ] How to Use Bitcoin Testnet Faucet (Detailed walkthrough of the Bitcoin Testnet
-  Faucet)
+- [ ] Getting Started
+  - Account Creation
+  - Platform Introduction
+  - Basic Setup Guide
+  - Investment Preparation
+
+- [ ] Investment Process
+  - Finding Projects
+  - Due Diligence Guide
+  - Investment Workflow
+  - Risk Management
+
+- [ ] Platform Usage
+  - Using Angor Hub
+  - Project Monitoring
+  - Communication Tools
+  - Portfolio Management
+
+- [ ] Technical Resources
+  - Platform Architecture
+  - Security Features
+  - Recovery Options
+  - Troubleshooting Guide
 
 ### 4. **Founder**
-- [ ] Getting Started (How to launch and manage projects)
-- [ ] Project Creation
-- [ ] Project Management
-- [ ] Project Funding
-- [ ] Project Promotion
-- [ ] How Angor Works (Technical overview of the platform)
-- [ ] Technical Guides (Detailed technical guides for founders)
-- [ ] How to Use Angor Hub (Detailed walkthrough of the Angor Hub)
-- [ ] Using Angor Hub (Features for founders)
-- [ ] Using Angor Profile (Features for founders)
+- [ ] Getting Started
+  - Platform Overview
+  - Account Setup
+  - Prerequisites and Requirements
+  - Basic Navigation Guide
+  
+- [ ] Project Lifecycle Management
+  - Project Creation and Setup
+  - Setting Funding Goals
+  - Defining Milestones
+  - Managing Project Timeline
+  
+- [ ] Financial Management
+  - Multi-signature Wallet Setup
+  - Fund Distribution Process
+  - Milestone Payment Management
+  - Return Funds to Investors
+  
+- [ ] Platform Integration
+  - Nostr Profile Setup and Management
+  - Angor Hub Integration
+  - Communication Tools
+  - Project Updates System
+  
+- [ ] Technical Documentation
+  - Platform Architecture Overview
+  - Security Best Practices
+  - API Integration Guide
+  - Advanced Features Guide
+  
+- [ ] Guides and Tutorials
+  - Step-by-step Project Launch
+  - Investor Communication Guide
+  - Fund Management Tutorial
+  - Troubleshooting Guide
 
 ### 5. **Developer**
-- [ ] Getting Started (Overview of Angor’s codebase and setup guide)
-- [ ] How to contribute to Angor (Guidelines for contributing to the codebase)
-- [ ] How to develop Angor (Technical guides for developers)
-- [ ] How to develop Angor Hub (Technical guides for developers)
-- [ ] Developer Tools (Debugging, testing, and tools for developers)
-- [ ] Setting up Angor Indexer (Installation and configuration)
-- [ ] Setting up Angor Relay (Installation, configuration, and best practices)
-- [ ] Setting up Bitcoin Testnet Faucet (Guide for developers)
+- [ ] Development Setup
+  - Environment Setup
+  - Dependencies Installation
+  - Configuration Guide
+  - Development Tools
+
+- [ ] Core Development
+  - Architecture Overview
+  - Codebase Structure
+  - Contributing Guidelines
+  - Testing Framework
+
+- [ ] Component Development
+  - Angor Hub Development
+  - Indexer Setup and Management
+  - Relay Configuration
+  - Faucet Implementation
+
+- [ ] Advanced Topics
+  - API Documentation
+  - Security Guidelines
+  - Performance Optimization
+  - Scaling Solutions
 
 ### 6. **FAQs**
-- [X] General FAQ
-- [X] Investors FAQ
-- [X] Founders FAQ
-- [X] Developers FAQ
+- [ ] Platform FAQs
+  - General Questions
+  - Technical Issues
+  - Security Concerns
+  - Common Problems
+
+- [ ] Role-Specific FAQs
+  - Investor FAQs
+  - Founder FAQs
+  - Developer FAQs
+  - Support FAQs
 
 ### 7. **Support**
-- [X] Getting Help (Contacting support and troubleshooting)
-- [X] Troubleshooting Guide (Common issues and solutions)
+- [ ] Help Resources
+  - Support Channels
+  - Documentation Guide
+  - Community Resources
+  - Contact Information
+
+- [ ] Troubleshooting
+  - Common Issues
+  - Solutions Guide
+  - Debug Procedures
+  - Emergency Contacts
