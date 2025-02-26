@@ -1,6 +1,6 @@
 ---
-title:  "Project Creation"
-description:  "Project Creation"
+title:  "Nostr Profile"
+description:  "Nostr Profile"
 sidebar:
-  order: 1
+  order: 7
 ---

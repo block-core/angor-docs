@@ -2,5 +2,5 @@
 title:  "Project Creation"
 description:  "Project Creation"
 sidebar:
-  order: 1
+  order: 6
 ---
