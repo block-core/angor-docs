@@ -30,8 +30,8 @@ We recommend using Sparrow Wallet or Bitcoin Core. Download only from official s
 - [Sparrow Wallet](https://sparrowwallet.com)
 - [Bitcoin Core](https://bitcoin.org)
 
-[Click here for detailed wallet setup instructions](/general/creating-wallet/)
+[Click here for detailed wallet setup instructions](/general/creating-a-wallet/)
 
 > **Important**: Your wallet will be linked to your investment contract. Never share your recovery phrase or private keys with anyone.
 
-Once your wallet is set up, proceed to [creating your investment contract](/founder/creating-contract/).
+ 
