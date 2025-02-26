@@ -1,63 +1,58 @@
 ---
 title: "Getting Started"
-description: "A guide to investing with Angor"
+description: "A comprehensive guide to secure investing with Angor"
 sidebar:
   order: 1
 ---
 
 # Investing with Angor
 
-Angor introduces a revolutionary approach to decentralized funding on the Bitcoin network, providing a secure and controlled investment mechanism for both early-stage (seed) and regular investors.
+## About Angor
 
-## Why Choose Angor?
+Angor is a revolutionary decentralized crowdfunding platform that combines Bitcoin's security with Nostr's transparency to create a trustless investment environment. Using time-locked contracts and staged funding, Angor ensures your investments are protected while maintaining complete decentralization through Bitcoin explorers and Nostr relays.
 
-Angor addresses key challenges in blockchain project investments by implementing a sophisticated time-locked contract system that protects investor interests while fostering project development.
+**Key Platform Features:**
 
-![bitcoin](./bitcoin2.svg)
+- **Decentralized Infrastructure:** No intermediaries - pure Bitcoin and Nostr integration
+- **Staged Funding:** Protected investments with milestone-based releases
+- **Fund Recovery:** Multiple options to recover unused funds
+- **Enhanced Security:** Leveraging Bitcoin's Taproot capabilities
+- **Direct Communication:** Secure investor-founder interaction via Nostr
 
-## Key Benefits
+## Investment Protection
 
-1. **Investment Protection**: Built-in mechanisms to recover investments at any time
-2. **Staged Funding**: Time-based stages ensure controlled fund release
-3. **Dual Investment Paths**: Separate mechanisms for seed and regular investors
-4. **Fraud Prevention**: Recovery options protect against project mismanagement
-5. **Active Control**: Investors maintain control over their investments throughout
+### Staged Funding System
+- Time-locked contracts protect your investment
+- Funds release only after verified milestone completion
+- Multiple recovery paths for unused funds
+- Complete transparency through blockchain verification
 
-![bitcoin](./bitcoin2.svg)
-
-## Investment Types
-
-### Seed Investors
-- Early-stage investors
-- Help initiate project funding
-- Recovery available with time-locked penalties
-- Generate important multisig components
-
-### Regular Investors
-- Join after seed phase
-- Flexible recovery options
-- Can leverage seeder keys for penalty-free recovery
-- Enhanced protection mechanisms
-
-![bitcoin](./bitcoin2.svg)
-
-## Investment Security
-
-Angor's design prioritizes investor protection through:
-- Pre-signed recovery transactions
-- Time-locked contracts
-- Threshold multisig schemes
-- Interactive transaction signing
-- Guaranteed recovery mechanisms
-
-![bitcoin](./bitcoin2.svg)
+### Security Features
+- Bitcoin Taproot integration
+- Multisignature support
+- Conditional spending mechanisms
+- Decentralized verification
 
 ## Getting Started
 
-1. Decide your investment type (Seed or Regular)
-2. Review project stages and timelines
-3. Prepare your Bitcoin allocation
-4. Complete the interactive pre-signing process
-5. Monitor your investment through Angor's interface
+1. **Prepare Your Wallet**
+   - Set up a Bitcoin wallet supporting Taproot
+   - Ensure sufficient funds for investment
+   - Understand recovery mechanisms
 
-Start your secure investment journey with Angor today and be part of the future of decentralized funding.
+2. **Project Selection**
+   - Browse projects at [Angor Hub](https://hub.angor.io)
+   - Review project milestones and timelines
+   - Assess founder credentials
+
+3. **Investment Process**
+   - Commit funds through time-locked contracts
+   - Monitor project progress via Nostr
+   - Participate in milestone verification
+   - Exercise recovery options if needed
+
+## Next Steps
+
+- [Detailed Investment Guide](./investing-process)
+- [Recovery Procedures](./recovery-options)
+- [Technical Documentation](./technical-guides)

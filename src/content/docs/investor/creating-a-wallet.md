@@ -14,7 +14,7 @@ Before you can start investing with Angor, you'll need a Bitcoin wallet to manag
 - Managing recovery options
 - Monitoring investment stages
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Wallet Requirements
 

@@ -9,7 +9,7 @@ sidebar:
 
 There are two main ways to discover investment opportunities on Angor:
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## 1. Using Angor App
 
@@ -23,7 +23,7 @@ The Browse section on Angor's main platform provides a quick overview of the mos
   - Project category
   - Timeline
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ### How to Use Browse:
 
@@ -37,7 +37,7 @@ The Browse section on Angor's main platform provides a quick overview of the mos
 
 ![Browse Section Interface](./images/browse.png)
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## 2. Exploring Angor Hub
 
@@ -48,7 +48,7 @@ For a more extensive selection of projects:
 3. Use advanced search and filter options
 4. View detailed analytics and project metrics
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ### Angor Hub Features:
 
@@ -60,7 +60,7 @@ For a more extensive selection of projects:
 
 For detailed information about using Angor Hub, please refer to our [Angor Hub Guide](../use-angor-hub).
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Best Practices for Project Discovery
 
@@ -69,6 +69,6 @@ For detailed information about using Angor Hub, please refer to our [Angor Hub G
 3. **Due Diligence**: Always review project details thoroughly before making investment decisions
 4. **Track Favorites**: Save interesting projects to your watchlist for future reference
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 > **Note**: While Browse shows the most recent 21 projects, Angor Hub provides access to the complete project database with additional features and analytics tools.

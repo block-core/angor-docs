@@ -26,13 +26,13 @@ Angor leverages Bitcoin’s advanced scripting capabilities, including **Taproot
 - **Time-Locked Contracts**: Ensure incremental funding releases tied to project milestones.
 - **Multisig Mechanisms**: Protect against fraud and mismanagement by requiring multiple signatures for fund release.
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Transparent Communication with Nostr
 
 Using the **Nostr protocol**, Angor facilitates secure communication between stakeholders. It ensures that **project metadata** is managed in a **decentralized** and **tamper-proof** manner, fostering trust and clarity for everyone involved.
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## A Truly Decentralized Platform
 
@@ -42,13 +42,13 @@ Unlike traditional platforms, **Angor eliminates intermediaries** and central au
 - **No Platform Fees**: Only standard Bitcoin network miner fees apply.
 - **Fairness for All**: Designed to align the interests of investors, founders, and developers.
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Transforming Investment
 
 Angor is more than just a funding platform—it’s a **transformative approach** to decentralized investment. By fostering **innovation**, **accountability**, and **collaboration**, it aligns the interests of all participants and sets a new standard for crowdfunding.
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Why Choose Angor?
 
@@ -56,7 +56,7 @@ Angor is more than just a funding platform—it’s a **transformative approach*
 - **Innovative Features**: Advanced scripting capabilities for secure funding.
 - **Global and Inclusive**: Accessible to anyone, anywhere.
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Join the Decentralized Revolution with Angor
 

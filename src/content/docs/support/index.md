@@ -9,7 +9,7 @@ sidebar:
 
 Welcome to Angor's support center. We provide multiple channels to ensure you get the assistance you need.
 
-![bitcoin](../investor/bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Direct Support Options
 
@@ -24,7 +24,7 @@ For urgent matters related to investments or security:
 - Emergency hotline: Available 24/7
 - Priority email: urgent@angor.io
 
-![bitcoin](../investor/bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Community Channels
 
@@ -46,7 +46,7 @@ For urgent matters related to investments or security:
   - Community chat
   - Investment discussions
 
-![bitcoin](../investor/bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Support Resources
 
@@ -58,7 +58,7 @@ For urgent matters related to investments or security:
 ### Developer Resources
 - [GitHub Repository](https://github.com/block-core/angor)
  
-![bitcoin](../investor/bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Community Guidelines
 

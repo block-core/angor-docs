@@ -9,7 +9,7 @@ sidebar:
 
 This guide addresses common issues you might encounter while using Angor.
 
-![bitcoin](../investor/bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Connection Issues
 
@@ -24,7 +24,7 @@ This guide addresses common issues you might encounter while using Angor.
    - Verify network fees
    - Ensure proper network selection
 
-![bitcoin](../investor/bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Investment Issues
 
@@ -39,7 +39,7 @@ This guide addresses common issues you might encounter while using Angor.
    - Verify timelock expiration
    - Check transaction fees
 
-![bitcoin](../investor/bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Common Error Messages
 
@@ -53,7 +53,7 @@ This guide addresses common issues you might encounter while using Angor.
 - `ERR_MULTISIG_INCOMPLETE`: Verify all required signatures
 - `ERR_CONTRACT_EXPIRED`: Check contract duration
 
-![bitcoin](../investor/bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Performance Optimization
 
@@ -68,7 +68,7 @@ This guide addresses common issues you might encounter while using Angor.
 2. Check network congestion
 3. Verify transaction priority
 
-![bitcoin](../investor/bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Security Checks
 

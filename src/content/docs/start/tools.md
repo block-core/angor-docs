@@ -42,7 +42,7 @@ The Angor ecosystem consists of several powerful tools and applications that wor
 
 </div>
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Angor Hub
 <div class="tool-section">
@@ -81,7 +81,7 @@ The Angor ecosystem consists of several powerful tools and applications that wor
 
 </div>
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Project Profile
 <div class="tool-section">
@@ -115,7 +115,7 @@ The Angor ecosystem consists of several powerful tools and applications that wor
 
 </div>
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Explorer
 <div class="tool-section">
@@ -131,7 +131,7 @@ The Angor ecosystem consists of several powerful tools and applications that wor
 
 </div>
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Indexer
 <div class="tool-section">
@@ -147,7 +147,7 @@ The Angor ecosystem consists of several powerful tools and applications that wor
 
 </div>
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Faucet
 <div class="tool-section">
@@ -164,7 +164,7 @@ The Angor ecosystem consists of several powerful tools and applications that wor
 
 </div>
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Nostr Chat
 <div class="tool-section">
@@ -180,7 +180,7 @@ The Angor ecosystem consists of several powerful tools and applications that wor
 
 </div>
 
-![bitcoin](./bitcoin2.svg)
+![bitcoin](/bitcoin-line.svg)
 
 ## Zapper
 <div class="tool-section">
