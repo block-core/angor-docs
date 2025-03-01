@@ -1,6 +1,6 @@
 ---
-title:  "Project Creation"
-description:  "Project Creation"
+title:  "Release Funds"
+description:  "Release Funds for Unfunded Projects"
 sidebar:
   order: 6
 ---
