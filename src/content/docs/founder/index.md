@@ -1,101 +1,56 @@
 ---
-title: "Founder's Guide to Angor"
-description: "Everything founders need to know about raising funds through Angor"
+title: "Getting Started"
+description: "A comprehensive guide for founders to launch their projects on Angor"
 sidebar:
   order: 1
 ---
 
-# Angor for Founders
+## Platform Overview
 
-## Why Choose Angor?
+Angor represents a revolutionary approach to project funding, seamlessly integrating Bitcoin's proven security infrastructure with Nostr's decentralized communication capabilities. Our platform provides founders with an advanced funding mechanism that carefully balances project flexibility with investor protection through intelligently designed contracts and staged funding releases.
 
-Angor provides a revolutionary way to raise funds for your project using Bitcoin's security and transparency. Here's what makes Angor special:
+## Core Platform Features
 
-### Key Benefits
+### Decentralized Architecture
 
-1. **Secure Funding**
-   - Bitcoin-based security
-   - Time-locked contracts
-   - Automated fund releases
-   - No middleman fees
+At the heart of Angor lies a fully decentralized architecture that eliminates traditional intermediaries and their associated costs. Your project's funding is secured directly on the Bitcoin blockchain, providing unparalleled security and transparency. Project communications and updates flow seamlessly through the Nostr network, creating a dual-network approach that ensures both maximum security for funds and transparent project communication.
 
-2. **Smart Milestones**
-   - Define your own milestones
-   - Automatic fund releases
-   - Transparent progress tracking
-   - Flexible timeline management
+### Smart Contract Integration
 
-3. **Investor Trust**
-   - Built-in protection mechanisms
-   - Clear progress tracking
-   - Transparent communication
-   - Community validation
+Angor harnesses the power of Bitcoin's Taproot capabilities to create sophisticated funding contracts. These contracts serve as the backbone of our platform, automatically managing the entire funding lifecycle. Through careful contract design, we've implemented automatic milestone-based fund releases, robust investor protection mechanisms, and comprehensive recovery scenarios. Our multi-signature security protocols ensure that funds remain secure while maintaining the flexibility needed for project execution.
 
-4. **Complete Control**
-   - Manage your fundraising
-   - Set your terms
-   - Control your timeline
-   - Direct investor communication
+### Transparent Project Management
 
-## Getting Started
+We've developed comprehensive management tools that give you full visibility and control over your project's funding lifecycle. You can monitor funding status in real-time, track milestone completions, and maintain direct communication with your investors. Our platform automatically verifies milestones and generates detailed progress reports, ensuring all stakeholders stay informed and aligned.
 
-### Platform Overview
-- **What is Angor**: A decentralized funding platform built on Bitcoin
-- **How it Works**: Milestone-based funding with automatic releases
-- **Key Features**: Multi-signature security, time-locked contracts, transparent tracking
-- **Success Metrics**: Track funding progress and milestone achievements
+## Project Launch Process
 
-### Account Setup
-1. **Create Your Profile**
-   - Set up your Nostr identity
-   - Complete profile verification
-   - Add project details
-   - Upload credentials
+### Initial Setup
 
-2. **Configure Wallet**
-   - Set up Bitcoin wallet
-   - Configure multi-signature settings
-   - Test transactions
-   - Verify security settings
+Starting your journey on Angor requires thorough preparation. Begin by developing a comprehensive project plan that clearly outlines your milestones and objectives. You'll need to prepare detailed technical documentation that demonstrates your project's feasibility and potential. Essential requirements include setting up a Bitcoin wallet that supports Taproot functionality and establishing a verified Nostr identity for secure communications with your stakeholders.
 
-### Prerequisites
-- Bitcoin wallet
-- Project documentation
-- Clear milestone plan
-- Funding requirements
-- Team information
+### Project Configuration
 
-### Navigation Guide
-1. **Dashboard**
-   - Project overview
-   - Funding status
-   - Milestone tracking
-   - Investor communications
+The configuration phase is crucial for your project's success. You'll need to carefully structure your financial framework, including defining precise funding requirements and establishing milestone-based release schedules. Our platform guides you through setting up recovery mechanisms and configuring multi-signature arrangements that protect both you and your investors.
 
-2. **Project Management**
-   - Create/edit projects
-   - Update milestones
-   - Manage funds
-   - Communicate with investors
+Your project documentation should encompass comprehensive technical specifications, detailed team credentials, and a clear project roadmap. We recommend including a thorough risk assessment document that demonstrates your understanding of potential challenges and mitigation strategies.
 
-## Next Steps
+### Smart Contract Development
 
-Ready to start? Follow these guides:
-1. [Project Creation Guide](./project-creation)
-2. [Setting Up Milestones](./project-lifecycle)
-3. [Managing Funds](./financial-management)
-4. [Investor Communications](./platform-integration)
+The smart contract infrastructure forms the foundation of your project on Angor. Our platform helps you implement sophisticated fund management protocols that handle milestone-triggered releases and investor protection mechanisms. Security features include carefully designed multi-signature configurations, time-lock parameters, and robust verification requirements. We also implement comprehensive backup procedures to ensure your project can handle any contingency.
 
-## Support Resources
+### Launch Preparation
 
-Need help? Access these resources:
-- [Founder FAQ](../faqs/founder-faq)
-- [Technical Support](../support/getting-help)
-- Community Chat
-- Documentation Guide
+Before going live, your project undergoes rigorous technical verification. This includes comprehensive smart contract testing, security audits, and validation of recovery scenarios. We'll help you establish and test all communication channels to ensure smooth interaction with your stakeholders.
 
-Remember: Angor is designed to make fundraising transparent, secure, and efficient while protecting both founders and investors through smart Bitcoin contracts.
+## Platform Integration
 
----
+### Communication Systems
 
-**Ready to launch your project?** → [Start Project Creation](./project-creation)
+Angor provides a comprehensive communication infrastructure built on Nostr. This includes encrypted channels for sensitive discussions, direct investor messaging capabilities, and public update mechanisms. Our milestone verification system automatically generates and distributes reports to keep all stakeholders informed of progress.
+
+### Progress Monitoring
+
+Our sophisticated monitoring system provides continuous visibility into your project's status. You'll have access to real-time funding dashboards that track milestone completion and investor engagement. Our analytics tools help you understand project performance and make data-driven decisions throughout your project's lifecycle.
+
+
