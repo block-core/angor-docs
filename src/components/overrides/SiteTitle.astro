@@ -18,28 +18,83 @@ const links: Link[] = [
     transfer: true,
   } 
 ];
+
+const apps = [
+  {
+    href: "https://test.angor.io",
+    icon: "fa-rocket",
+    name: "Angor App",
+    desc: "Create and manage funding"
+  },
+  {
+    href: "https://blog.angor.io",
+    icon: "fa-newspaper",
+    name: "Angor Blog",
+    desc: "News and updates"
+  },
+  {
+    href: "https://hub.angor.io",
+    icon: "fa-compass",
+    name: "Angor Hub",
+    desc: "Discover projects to fund"
+  },
+  {
+    href: "https://profile.angor.io",
+    icon: "fa-user",
+    name: "Angor Profile",
+    desc: "Manage your project profile"
+  },
+  {
+    href: "https://angor.io",
+    icon: "fa-globe",
+    name: "Angor Web",
+    desc: "Learn about Angor Protocol"
+  },
+  {
+    href: "https://docs.angor.io",
+    icon: "fa-book",
+    name: "Angor Docs",
+    desc: "Angor Documentation"
+  }
+];
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-<>
-  <Default {...Astro.props}><slot /></Default>
+<div class="site-title-wrapper">
+  <button class="title-button">
+    <Default {...Astro.props}><slot /></Default>
+  </button>
+  <div class="app-menu" id="appMenu">
+    <div class="app-menu-content">
+      {apps.map(app => (
+        <a href={app.href} class="app-item">
+          <i class={`fa-solid ${app.icon}`}></i>
+          <div>
+            <span class="app-name">{app.name}</span>
+            <span class="app-desc">{app.desc}</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</div>
 
-  <starlight-select class="mobile">
-    <label>
-      <select aria-label="Menu">
-        <option value="" disabled selected>Menu</option>
-        {
-          links.map((link) => (
-            <option
-              value={link.transfer && curLocale ? `/${curLocale}${link.value}` : link.value}
-              set:html={link.title}
-            />
-          ))
-        }
-      </select>
-      <Icon name="down-caret" class="icon caret" />
-    </label>
-  </starlight-select>
-</>
+<starlight-select class="mobile">
+  <label>
+    <select aria-label="Menu">
+      <option value="" disabled selected>Menu</option>
+      {
+        links.map((link) => (
+          <option
+            value={link.transfer && curLocale ? `/${curLocale}${link.value}` : link.value}
+            set:html={link.title}
+          />
+        ))
+      }
+    </select>
+    <Icon name="down-caret" class="icon caret" />
+  </label>
+</starlight-select>
 
 <script>
   class StarlightLanguageSelect extends HTMLElement {
@@ -56,6 +111,24 @@ const links: Link[] = [
     }
   }
   customElements.define('starlight-select', StarlightLanguageSelect);
+
+  const button = document.querySelector('.title-button');
+  const menu = document.getElementById('appMenu');
+  let isMenuOpen = false;
+
+  button?.addEventListener('click', (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    isMenuOpen = !isMenuOpen;
+    menu?.classList.toggle('show');
+  });
+
+  document.addEventListener('click', (e) => {
+    if (isMenuOpen && !menu?.contains(e.target as Node)) {
+      menu?.classList.remove('show');
+      isMenuOpen = false;
+    }
+  });
 </script>
 
 <style>
@@ -136,5 +209,88 @@ const links: Link[] = [
   }
   starlight-select {
     margin-left: auto;
+  }
+
+  .site-title-wrapper {
+    position: relative;
+    cursor: pointer;
+  }
+
+  .title-button {
+    all: unset;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+
+  .app-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    border: 1px solid var(--sl-color-gray-5);
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    width: 320px;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
+    margin-top: 0.5rem;
+    backdrop-filter: blur(16px);
+    background-color: var(--sl-color-bg-nav);
+  }
+
+  .app-menu.show {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .app-menu-content {
+    padding: 0.5rem;
+  }
+
+  .app-item {
+    display: flex;
+    align-items: center;
+    padding: 0.75rem;
+    color: var(--sl-color-white);
+    text-decoration: none;
+    border-radius: 6px;
+    transition: all 0.2s cubic-bezier(0.19, 1, 0.22, 1);
+  }
+
+  .app-item:hover {
+    background-color: var(--sl-color-gray-6);
+    transform: translateY(-2px) scale(1.02);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  .app-item i {
+    font-size: 1.5rem;
+    margin-right: 1rem;
+    width: 24px;
+    text-align: center;
+    color: var(--sl-color-white);
+    opacity: 0.7;
+    transition: all 0.2s cubic-bezier(0.19, 1, 0.22, 1);
+  }
+
+  .app-item:hover i {
+    color: var(--sl-color-accent);
+    opacity: 1;
+  }
+
+  .app-item div {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .app-name {
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+  }
+
+  .app-desc {
+    font-size: 0.85rem;
+    opacity: 0.7;
   }
 </style>
