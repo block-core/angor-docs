@@ -39,7 +39,6 @@ Using the **Nostr protocol**, Angor facilitates secure communication between sta
 Unlike traditional platforms, **Angor eliminates intermediaries** and central authorities:
 
 - **Permissionless Access**: Open for all, ensuring inclusivity.
-- **No Platform Fees**: Only standard Bitcoin network miner fees apply.
 - **Fairness for All**: Designed to align the interests of investors, founders, and developers.
 
 ![bitcoin](/bitcoin-line.svg)
