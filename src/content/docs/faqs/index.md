@@ -51,4 +51,4 @@ Project updates are shared via Nostr relays and can be accessed on Angor Hub.
 ![bitcoin](/bitcoin-line.svg)
 
 ## Does Angor charge fees?
-Angor charges no platform fees. Only miner fees are applicable for transactions.
+Yes. Angor charges a 1% platform fee on transactions, in addition to Bitcoin network miner fees.
